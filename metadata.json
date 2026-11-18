@@ -1,0 +1,6 @@
+{
+  "name": "HELIOS APEX",
+  "description": "High-speed 3D aerial geometric combat and canyon-skimmer game built with Three.js PBR graphics, procedural polyhedral models, and Web Audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
